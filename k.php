@@ -1,0 +1,3 @@
+<?php
+define('SITE_KEY', '6LdFwf4ZAAAAAN58goBYdrvI3MT4SXrDU0SVO8bv');
+define('SECRET_KEY', '6LdFwf4ZAAAAAKDrZhhi5SKys_Uutq2RLiUQZXVT');
